@@ -39,7 +39,7 @@
 <div align="center"> 
 
   <a href = "https://www.linkedin.com/in/nathaly-barbieri/" target = "_blank">
-  <img src = "https://img.shields.io/badge/LinkedIn-da9ffc?style=for-the-badge&logo=linkedin&logoColor=black" target = "_blank">
+  <img src = "https://img.shields.io/badge/LinkedIn-d375f1?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank">
   </a> 
  
 </div>
