@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><i>🌸 Bem-vindo(a) ao meu perfil 🌸</i></h2>
+  <h2><i> 🌸  Bem-vindo(a) ao meu perfil  🌸 </i></h2>
 </div>
 
 <!-- APRESENTAÇÃO -->
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-  _🦋 Sinta-se livre para navegar pelo conteúdo e deixar seu feedback! 🦋_
+  _🦋  Sinta-se livre para navegar pelo conteúdo e deixar seu feedback!  🦋_
   
 </div>
 
