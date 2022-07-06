@@ -1,4 +1,4 @@
-### 🌸 About me 🌸
+# 🌸 About me 🌸
 
 Meu nome é Nathaly Barbieri, tenho 18 anos, sou técnica em Desenvolvimento de Sistemas e estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC Zona Sul.
 
