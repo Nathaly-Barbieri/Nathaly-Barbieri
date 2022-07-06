@@ -2,6 +2,8 @@
   <h2>🌸 ABOUT ME 🌸</h2>
 </div>
 
+<!-- APRESENTAÇÃO -->
+
 <div> 
   
   Me chamo Nathaly Barbieri, tenho 18 anos, sou técnica em Desenvolvimento de Sistemas e estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC   Zona Sul.
@@ -12,6 +14,7 @@
 
   <br>
 
+<!-- ESTATISTICAS DO PERFIL -->
 
 <div align="center">
   <a href="https://github.com/Nathaly-Barbieri">
@@ -21,10 +24,22 @@
 
 <br>
 
+<!-- NOTAS DE RODAPÉ -->
+
 <div align="center">
   
   _Neste perfil você encontrará bons commits, projetos acadêmicos e projetos pessoais._
 
   _🦋 Sinta-se bem vindo(a) para navegar pelo conteúdo e deixar seu feedback! 🦋_
   
+</div>
+
+<!-- REDES SOCIAIS-->
+
+<div align="center"> 
+
+  <a href = "https://www.linkedin.com/in/nathaly-barbieri/" target = "_blank">
+  <img src = "https://img.shields.io/badge/LinkedIn-da9ffc?style=for-the-badge&logo=linkedin&logoColor=black" target = "_blank">
+  </a> 
+ 
 </div>
