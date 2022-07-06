@@ -1,14 +1,12 @@
 <div align="center">
-  <h2>🌸 ABOUT ME 🌸</h2>
+  <h2><i>🌸 Bem-vindo(a) ao meu perfil 🌸</i></h2>
 </div>
 
 <!-- APRESENTAÇÃO -->
 
-<div> 
-  
-  Me chamo Nathaly Barbieri, tenho 18 anos, sou técnica em Desenvolvimento de Sistemas e estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC   Zona Sul.
+<div align="center">
 
-  Atualmente estou trabalhando no [Projeto Inside](https://projinside.github.io/KnowInside/), e estou aberta para novas oportunidades de emprego.
+  Aqui você encontrará bons commits, projetos acadêmicos e alguns projetos pessoais.
   
 </div>
 
@@ -27,10 +25,8 @@
 <!-- NOTAS DE RODAPÉ -->
 
 <div align="center">
-  
-  _Neste perfil você encontrará bons commits, projetos acadêmicos e projetos pessoais._
 
-  _🦋 Sinta-se bem vindo(a) para navegar pelo conteúdo e deixar seu feedback! 🦋_
+  _🦋 Sinta-se livre para navegar pelo conteúdo e deixar seu feedback! 🦋_
   
 </div>
 
