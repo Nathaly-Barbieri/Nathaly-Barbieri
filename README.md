@@ -40,5 +40,3 @@
  
 </div>
 
-![Snake animation](https://github.com/Nathaly-Barbieri/Nathaly-Barbieri/blob/output/github-contribution-grid-snake.svg)
-
